@@ -1,5 +1,6 @@
 package com.live.kafka.producer.controller;
 
+import com.live.kafka.producer.dto.CarDTO;
 import com.live.kafka.producer.producer.CarProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
